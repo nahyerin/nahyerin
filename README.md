@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm hyerin.
+# Hyerin's CodingDay
 
 
 ## 🚀 GitHub Stats
@@ -18,6 +18,3 @@
 
 - [GitHub](https://github.com/nahyerin)
 - [Blog](https://your-blog-url) 
-
-
-Feel free to explore my repositories and projects. If you have any questions, suggestions, or just want to connect, don't hesitate to reach out. Happy coding! 🚀
