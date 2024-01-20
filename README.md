@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm hyerin.
 
-Welcome to my GitHub space! I'm a passionate web developer and Java enthusiast, always excited to explore new technologies and contribute to open-source projects.
 
 ## 🚀 GitHub Stats
 
