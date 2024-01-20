@@ -1,2 +1,2 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
- ![nahyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username={nahyerin}&show_icons=true&theme={dark})
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahyerin&theme=dark&show_icons=true)
