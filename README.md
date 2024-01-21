@@ -92,17 +92,13 @@
 | 23.06.04 ~ 23.06.10 | MVC2 패턴을 이용해 JSP 게시판 만들기 | JSP 개인 프로젝트 |
 | 23.05.15 ~ 23.05.25 | 순수 자바 콘솔 게시판 | 자바 팀 프로젝트 |
 | 23.05.11 ~ 23.05.15 | OracleXE와 자바를 연동하여 게시판 구현 | 자바 개인 프로젝트 |
-| 23.04.12 ~ 23.08.17 | AWS활용 자바 풀스택개발(큐레이팅커머스) 수료 (산대특)| 안산 이젠컴퓨터아카데미 |
-| 16.03 ~ 23.02 | 토목 공학과 학사 졸업 | 청주대학교 |
+| 23.10.25 ~ 23.05.02 | 프로젝트기반 자바(스프링,백엔드) & 파이썬(OCR) 풀스택 웹 개발자 양성과정 | 그린컴퓨터아카데미 강남점 |
   
 <!-- </div> -->
 
 
 <br><hr>
 ## 💻 Projects
-
-
-
 
 
 #### 👨‍👩‍👦‍👦 Team
@@ -127,10 +123,10 @@
 </details>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeongseokim&count_bg=%23B2D5FF&title_bg=%23858486&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://github.com/byeongseokim)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyerin&count_bg=%23B2D5FF&title_bg=%23858486&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://github.com/nahyerin)
 
 
-|[![byeongseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongseokim&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false&&theme=buefyhide_border=true")](https://github.com/byeongseokim)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&langs_count=10&hide=html&layout=compact&custom_title=많이사용되는언어&hide_border=true)
+|[![hyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahyerin&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false&&theme=buefyhide_border=true")](https://github.com/nahyerin)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyerin&langs_count=10&hide=html&layout=compact&custom_title=많이사용되는언어&hide_border=true)
 | ------------- | ------------- |
 
 
