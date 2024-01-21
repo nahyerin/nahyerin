@@ -1,5 +1,5 @@
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20byeongseok%20GitHub%20(●'◡'●)&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=70&height=250&desc=Web%20Developer%20Student&rotate=0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20hyerin%20GitHub%20(●'◡'●)&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=70&height=250&desc=Web%20Developer%20Student&rotate=0)
 ---
 
 
@@ -14,8 +14,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-
 
 ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-232F3E?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![AWSElasticBeanstalk](https://img.shields.io/badge/AWSElasticBeanstalk-232F3E?style=for-the-badge&logo=amazon-elastic-beanstalk&logoColor=white)
@@ -30,6 +28,7 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![IntelliJ Idea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+
 ## 🧰 사용해본 기술 스택 🧰
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"><abcdefghijk>
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
