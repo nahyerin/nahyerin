@@ -1,5 +1,5 @@
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20hyerin%20GitHub%20(●'◡'●)&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=70&height=200&weight=1000&desc=Web%20Developer&rotate=0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20hyerin%20GitHub%20(●'◡'●)&animation=twinkling&fontSize=25&fontAlignY=30&fontAlign=70&height=200&desc=Web%20Developer&rotate=0)
 ---
 
 
