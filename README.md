@@ -98,10 +98,7 @@
 #### 👨‍👩‍👦‍👦 Team
 | Project | Adress |
 |---|---|
- |*자바게시판* &nbsp;| https://github.com/byeongseokim/Java_Team_Project                     |
- |*서울페스티벌* &nbsp;| https://github.com/byeongseokim/JSP_Team_Project           |
- |*NEVER WEB community site* &nbsp; |https://github.com/byeongseokim/Fullstack-Project      |
-
+ |*컬러제안사이트-협업하기 연습* &nbsp;| https://github.com/nahyerin/hyeerinProject/tree/main/colorProj |
 
 
 #### 🙎‍♀️ Solo
