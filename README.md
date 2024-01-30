@@ -18,7 +18,6 @@
 ![AWSElasticBeanstalk](https://img.shields.io/badge/AWSElasticBeanstalk-232F3E?style=for-the-badge&logo=amazon-elastic-beanstalk&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -38,9 +37,7 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-EA77FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📔 나의 관심 기술📔
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -48,7 +45,6 @@
 ![dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![arduino](https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![.net](https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
@@ -105,14 +101,10 @@
 
 | Project | Adress |
 |---|---|
-|*자바게시판* &nbsp; | https://github.com/byeongseokim/JavaSoloProject/|
-|*JSP게시판* &nbsp; | https://github.com/byeongseokim/JSP-MVC-model2-Project/|
-|*React+SpringBoot 풀스택* &nbsp; | https://github.com/byeongseokim/Springboot-React-Fullstack-Personalproject|
-
+|*다중채팅(소켓)* &nbsp; | |
 
 </div>
 </details>
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyerin&count_bg=%23B2D5FF&title_bg=%23858486&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://github.com/nahyerin)
 
