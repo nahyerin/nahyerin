@@ -114,7 +114,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyerin&count_bg=%23B2D5FF&title_bg=%23858486&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://github.com/nahyerin)
 
 
-|[![hyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahyerin&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false&&theme=buefyhide_border=true")](https://github.com/nahyerin)|![Top Langs][![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyerin94)](https://solved.ac/hyerin94/)
+|[![hyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahyerin&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false&&theme=buefyhide_border=true")](https://github.com/nahyerin)|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyerin94)](https://solved.ac/hyerin94/)
 | ------------- | ------------- |
 
 
