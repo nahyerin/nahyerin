@@ -97,11 +97,21 @@
 
 | Project | Adress |
 |---|---|
-|*다중채팅(소켓)* &nbsp; | https://github.com/nahyerin/hyeerinProjectSolo/tree/main/multiChatFinal|
-|*벽돌깨기게임* &nbsp; | https://github.com/nahyerin/hyeerinProjectSolo/tree/main/BreakoutstyleGame|
-|*플렉시블페이지&시계구현* &nbsp; | https://github.com/nahyerin/hyeerinProjectSolo/tree/main/AnalogueClock|
-|*간단한 사이트구성* &nbsp; | https://github.com/nahyerin/hyeerinProjectSolo/tree/main/pageSimple |
-|*웹 계산기 구현* &nbsp; | https://github.com/nahyerin/hyeerinProjectSolo/tree/main/calculator |
+|*대규모 트래픽을 고려한 SNS서비스* &nbsp; | |
+|*대출도메인(핀테크)* &nbsp; | |
+|*가격비교서비스* &nbsp; | |
+
+
+#### 🤖 Practice
+
+| Project | Adress |
+|---|---|
+|*다중채팅(소켓)* &nbsp; |https://github.com/nahyerin/hyeerin-Pr-actice/tree/main/multiChatFinal|
+|*벽돌깨기 게임* &nbsp; | https://github.com/nahyerin/hyeerin-Pr-actice/tree/main/BreakoutstyleGame|
+|*플렉시블페이지&시계구현* &nbsp; | https://github.com/nahyerin/hyeerin-Pr-actice/tree/main/AnalogueClock|
+|*간단한 사이트구성* &nbsp; | https://github.com/nahyerin/hyeerin-Pr-actice/tree/main/pageSimple |
+|*웹 계산기 구현* &nbsp; | https://github.com/nahyerin/hyeerin-Pr-actice/tree/main/calculator |
+|*테스트코드작성* &nbsp; | https://github.com/FastCampus-sttudy/oop-practice |
 
 </div>
 </details>
