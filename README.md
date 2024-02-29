@@ -78,10 +78,10 @@
 ## 💻 Projects
 
 
-#### 👨‍👩‍👦‍👦 Team
-| Project | Adress |
-|---|---|
- |*컬러제안사이트-협업하기 연습* &nbsp;| https://github.com/nahyerin/hyeerinProject/tree/main/colorProj |
+<!-- #### 👨‍👩‍👦‍👦 Team -->
+<!-- | Project | Adress | -->
+<!-- |---|---| -->
+<!-- |*컬러제안사이트-협업하기 연습* &nbsp;| https://github.com/nahyerin/hyeerinProject/tree/main/colorProj | -->
 
 
 #### 🙎‍♀️ Solo
