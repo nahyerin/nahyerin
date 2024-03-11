@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![IntelliJ Idea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 
@@ -50,9 +50,9 @@
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
-|  | 파이썬으로 할 수 있는 모든 것 with 47개 프로젝트 | 패스트캠퍼스 |
-|  | 10개 프로젝트로 완성하는 백엔드 웹개발(Java/Spring) | 패스트캠퍼스 |
-|  | 자바 스프링 프레임워크 - 신입 프로그래머를 위한 강좌 | 인프런 |
+<!-- |  | 파이썬으로 할 수 있는 모든 것 with 47개 프로젝트 | 패스트캠퍼스 | -->
+<!-- |  | 10개 프로젝트로 완성하는 백엔드 웹개발(Java/Spring) | 패스트캠퍼스 | -->
+<!-- |  | 자바 스프링 프레임워크 - 신입 프로그래머를 위한 강좌 | 인프런 | -->
 |  | 시그니처 백엔드 path 초격차 패키지 | 패스트캠퍼스 |
 | 23.12.06 ~ 24.01.03 | 문제해결을 위한 자바 코딩 챌린지 | 그린온라인캠프 |
   
